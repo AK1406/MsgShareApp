@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MsgShareApp</string>
+    <string name="recyclerview_and_cardview_demo">Démonstration de Recyclerview et Cardview</string>
+    <string name="text_title">Titre</string>
+    <string name="write_your_message">Écrivez votre message</string>
+    <string name="share_to_next_activity">Partager à la prochaine activité</string>
+    <string name="share_to_another_app">Partager sur une autre application</string>
+    <string name="share_to">Share to Partager à ::</string>
+</resources>
